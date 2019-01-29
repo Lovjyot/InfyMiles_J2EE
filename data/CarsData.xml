@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarsData>
+<Car id="1">
+<carName>Ford Ranger</carName>
+<carCategory>Van</carCategory>
+<carBrandName>Ford</carBrandName>
+<carMileage>15</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Black</carColor>
+<carImagePath>fordvan.jpg</carImagePath>
+<carPrice>35</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location>
+</Car>
+
+<Car id="2">
+<carName>Ford Fiesta</carName>
+<carCategory>Hatchback</carCategory>
+<carBrandName>Ford</carBrandName>
+<carMileage>26</carMileage>
+<carModel>2017</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Silver</carColor>
+<carImagePath>fordfiesta.jpg</carImagePath>
+<carPrice>29</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="3">
+<carName>Jaguar X6J</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Jaguar</carBrandName>
+<carMileage>20</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2015</carProductionYear>
+<carColor>Blue</carColor>
+<carImagePath>jaguarxj6.jpg</carImagePath>
+<carPrice>80</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="4">
+<carName>Jaguar XK 5.0</carName>
+<carCategory>Convertible</carCategory>
+<carBrandName>Jaguar</carBrandName>
+<carMileage>15</carMileage>
+<carModel>2014</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>black</carColor>
+<carImagePath>JaguarXK.jpg</carImagePath>
+<carPrice>160</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="5">
+<carName>Audi A5</carName>
+<carCategory>Convertible</carCategory>
+<carBrandName>Audi</carBrandName>
+<carMileage>12</carMileage>
+<carModel>2013</carModel>
+<carProductionYear>2014</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>audia5.jpg</carImagePath>
+<carPrice>190</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="6">
+<carName>Audi A1</carName>
+<carCategory>Hatchback</carCategory>
+<carBrandName>Audi</carBrandName>
+<carMileage>18</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2015</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>audia1.jpg</carImagePath>
+<carPrice>140</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="7">
+<carName>Audi A3</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Audi</carBrandName>
+<carMileage>17</carMileage>
+<carModel>2014</carModel>
+<carProductionYear>2014</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>audia3.jpg</carImagePath>
+<carPrice>160</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="8">
+<carName>BMW X1</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>BMW</carBrandName>
+<carMileage>12</carMileage>
+<carModel>2012</carModel>
+<carProductionYear>2013</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>bmwx1.jpg</carImagePath>
+<carPrice>135</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="9">
+<carName>BMW 320I</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>BMW</carBrandName>
+<carMileage>15</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Black</carColor>
+<carImagePath>bmw320i.jpg</carImagePath>
+<carPrice>90</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="10">
+<carName>BMW X6</carName>
+<carCategory>Crossover</carCategory>
+<carBrandName>BMW</carBrandName>
+<carMileage>14</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2015</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>bmwx6.jpg</carImagePath>
+<carPrice>88</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="11">
+<carName>Mercedes Benz GLC</carName>
+<carCategory>Crossover</carCategory>
+<carBrandName>Mercedes</carBrandName>
+<carMileage>22</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>mercedesglc.jpg</carImagePath>
+<carPrice>70</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="12">
+<carName>Mercedes Strich 8</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Mercedes</carBrandName>
+<carMileage>24</carMileage>
+<carModel>1998</carModel>
+<carProductionYear>200</carProductionYear>
+<carColor>$200.0</carColor>
+<carImagePath>mercedesstrich8.jpg</carImagePath>
+<carPrice>225</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="13">
+<carName>Mercedes Benz GLE</carName>
+<carCategory>Coupe</carCategory>
+<carBrandName>Mercedes</carBrandName>
+<carMileage>20</carMileage>
+<carModel>2017</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Red</carColor>
+<carImagePath>mercedesbenzgle.jpg</carImagePath>
+<carPrice>200</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="14">
+<carName>VolksWagen Passat CC</carName>
+<carCategory>Coupe</carCategory>
+<carBrandName>VolksWagen </carBrandName>
+<carMileage>13</carMileage>
+<carModel>2017</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Yellow</carColor>
+<carImagePath>volkswagen-passat-cc.jpg</carImagePath>
+<carPrice>60</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="15">
+<carName>VolksWagen Taigun</carName>
+<carCategory>Crossover</carCategory>
+<carBrandName>VolksWagen </carBrandName>
+<carMileage>21</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2015</carProductionYear>
+<carColor>Orange</carColor>
+<carImagePath>volkswagen-taigun.jpg</carImagePath>
+<carPrice>110</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="16">
+<carName>VW Beetle</carName>
+<carCategory>Convertible</carCategory>
+<carBrandName>VolksWagen</carBrandName>
+<carMileage>24</carMileage>
+<carModel>2009</carModel>
+<carProductionYear>2012</carProductionYear>
+<carColor>Yellow</carColor>
+<carImagePath>vwbeetle.jpg</carImagePath>
+<carPrice>45</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="17">
+<carName>Ferrari 488 GTB</carName>
+<carCategory>Convertible</carCategory>
+<carBrandName>Ferrari</carBrandName>
+<carMileage>18</carMileage>
+<carModel>2017</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Red</carColor>
+<carImagePath>ferrari-488-gtb.jpg</carImagePath>
+<carPrice>250</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="18">
+<carName>Ferrari California</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Ferrari</carBrandName>
+<carMileage>23</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>Ferrari-California.jpg</carImagePath>
+<carPrice>225</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="19">
+<carName>Ferrari Enzo</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Ferrari</carBrandName>
+<carMileage>22</carMileage>
+<carModel>2012</carModel>
+<carProductionYear>2012</carProductionYear>
+<carColor>Red</carColor>
+<carImagePath>ferrarienzo.jpg</carImagePath>
+<carPrice>230</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="20">
+<carName>Toyota Tacoma</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Toyota</carBrandName>
+<carMileage>35</carMileage>
+<carModel>2013</carModel>
+<carProductionYear>2013</carProductionYear>
+<carColor>Black</carColor>
+<carImagePath>toyota_tacoma.jpg</carImagePath>
+<carPrice>35</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="21">
+<carName>Toyota Camry</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Toyota</carBrandName>
+<carMileage>32</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Silver</carColor>
+<carImagePath>toyotacamry.jpg</carImagePath>
+<carPrice>28</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="22">
+<carName>Toyota Corolla</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Toyota</carBrandName>
+<carMileage>25</carMileage>
+<carModel>2017</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>2014-Toyota-Corolla.jpg</carImagePath>
+<carPrice>45</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="23">
+<carName>Honda Accord</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Honda</carBrandName>
+<carMileage>33</carMileage>
+<carModel>2017</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Blue</carColor>
+<carImagePath>honda_accord.jpg</carImagePath>
+<carPrice>40</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="24">
+<carName>Honda Civic</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Honda</carBrandName>
+<carMileage>44</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Green</carColor>
+<carImagePath>honda-civic.jpg</carImagePath>
+<carPrice>60</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="25">
+<carName>Honda CR-V</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Honda</carBrandName>
+<carMileage>36</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Red</carColor>
+<carImagePath>hondacrv.jpg</carImagePath>
+<carPrice>35</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="26">
+<carName>Chevrolet Tahoe</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Chevrolet</carBrandName>
+<carMileage>30</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Black</carColor>
+<carImagePath>black-chevrolet-tahoe.jpg</carImagePath>
+<carPrice>55</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="27">
+<carName>Chevrolet Spark</carName>
+<carCategory>Hatchback</carCategory>
+<carBrandName>Chevrolet</carBrandName>
+<carMileage>40</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2015</carProductionYear>
+<carColor>Green</carColor>
+<carImagePath>chevroletspark.jpg</carImagePath>
+<carPrice>25</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="28">
+<carName>Chevrolet Camaro</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Chevrolet</carBrandName>
+<carMileage>20</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Yellow</carColor>
+<carImagePath>chevrolet_camaro.jpg</carImagePath>
+<carPrice>50</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="29">
+<carName>Mazda CX-4</carName>
+<carCategory>Crossover</carCategory>
+<carBrandName>Mazda</carBrandName>
+<carMileage>25</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Red</carColor>
+<carImagePath>mazdacx4.jpg</carImagePath>
+<carPrice>65</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="30">
+<carName>Mazda 3</carName>
+<carCategory>Hatchback</carCategory>
+<carBrandName>Mazda</carBrandName>
+<carMileage>39</carMileage>
+<carModel>2007</carModel>
+<carProductionYear>2007</carProductionYear>
+<carColor>Silver</carColor>
+<carImagePath>mazda3.jpg</carImagePath>
+<carPrice>32</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="31">
+<carName>Mazda Auto 1.5</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Mazda</carBrandName>
+<carMileage>36</carMileage>
+<carModel>2014</carModel>
+<carProductionYear>2015</carProductionYear>
+<carColor>Red</carColor>
+<carImagePath>mazda_3_sedan_auto.jpg</carImagePath>
+<carPrice>45</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>Chicago</location></Car>
+
+<Car id="32">
+<carName>KIA Optima</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>KIA</carBrandName>
+<carMileage>50</carMileage>
+<carModel>2007</carModel>
+<carProductionYear>2010</carProductionYear>
+<carColor>Maroon</carColor>
+<carImagePath>kiaoptima.jpg</carImagePath>
+<carPrice>60</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="33">
+<carName>KIA SXL</carName>
+<carCategory>Hatchback</carCategory>
+<carBrandName>KIA</carBrandName>
+<carMileage>29</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>Kiasxl.jpg</carImagePath>
+<carPrice>42</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="34">
+<carName>KIA Sorento LX4</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>KIA</carBrandName>
+<carMileage>30</carMileage>
+<carModel>2014</carModel>
+<carProductionYear>2015</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>kiasorentolx4.jpg</carImagePath>
+<carPrice>55</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="35">
+<carName>Range Rover Sports</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Range Rover</carBrandName>
+<carMileage>18</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>range-rover-sport.jpg</carImagePath>
+<carPrice>130</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="36">
+<carName>Range Rover Evoque</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Range Rover</carBrandName>
+<carMileage>20</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>range_rover_evoque.jpg</carImagePath>
+<carPrice>180</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="37">
+<carName>Range Rover Sport SVR</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Range Rover</carBrandName>
+<carMileage>16</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Black</carColor>
+<carImagePath>range-rover-sport-svr.jpg</carImagePath>
+<carPrice>160</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="38">
+<carName>Rolls Royce Phantom 2017</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Rolls Royce</carBrandName>
+<carMileage>8</carMileage>
+<carModel>2017</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Blue</carColor>
+<carImagePath>rollsroyceuk.jpg</carImagePath>
+<carPrice>450</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="39">
+<carName>Rolls Royce Phantom</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Rolls Royce</carBrandName>
+<carMileage>10</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2015</carProductionYear>
+<carColor>Silver</carColor>
+<carImagePath>rolls-royce-phantom.jpg</carImagePath>
+<carPrice>555</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="40">
+<carName>Rolls Royce Retro</carName>
+<carCategory>Convertible</carCategory>
+<carBrandName>Rolls Royce</carBrandName>
+<carMileage>9</carMileage>
+<carModel>1988</carModel>
+<carProductionYear>1988</carProductionYear>
+<carColor>Black</carColor>
+<carImagePath>rolls-royce-retro.jpg</carImagePath>
+<carPrice>600</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="41">
+<carName>Bugatti Chiron</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Bugatti</carBrandName>
+<carMileage>11</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Black</carColor>
+<carImagePath>bugatti-chiron.jpg</carImagePath>
+<carPrice>350</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="42">
+<carName>Bugatti Veyron</carName>
+<carCategory>Convertible</carCategory>
+<carBrandName>Bugatti</carBrandName>
+<carMileage>14</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Blue</carColor>
+<carImagePath>bugattiveyron.jpg</carImagePath>
+<carPrice>400</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+<Car id="43">
+<carName>Lamborghini Gallardo</carName>
+<carCategory>Convertible</carCategory>
+<carBrandName>Lamborghini</carBrandName>
+<carMileage>14</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Orange</carColor>
+<carImagePath>lamborghinigallardo.jpg</carImagePath>
+<carPrice>375</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+
+<Car id="44">
+<carName>Lamborghini Urus</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Lamborghini</carBrandName>
+<carMileage>13</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>Red</carColor>
+<carImagePath>lamborghini-urus.jpg</carImagePath>
+<carPrice>400</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+
+<Car id="45">
+<carName>Ford Edge</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Ford</carBrandName>
+<carMileage>20</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>Orange</carColor>
+<carImagePath>fordedge.jpg</carImagePath>
+<carPrice>75</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+
+<Car id="46">
+<carName>Ford Escape</carName>
+<carCategory>SUV</carCategory>
+<carBrandName>Ford</carBrandName>
+<carMileage>18</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>fordescape.jpg</carImagePath>
+<carPrice>80</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+
+<Car id="47">
+<carName>Jaguar XS</carName>
+<carCategory>Sedan</carCategory>
+<carBrandName>Jaguar</carBrandName>
+<carMileage>22</carMileage>
+<carModel>2016</carModel>
+<carProductionYear>2017</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>jaguar-xs.jpg</carImagePath>
+<carPrice>120</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+
+<Car id="48">
+<carName>Jaguar SV8</carName>
+<carCategory>Convertible</carCategory>
+<carBrandName>Jaguar</carBrandName>
+<carMileage>16</carMileage>
+<carModel>2015</carModel>
+<carProductionYear>2016</carProductionYear>
+<carColor>White</carColor>
+<carImagePath>jaguarsv8.jpg</carImagePath>
+<carPrice>230</carPrice>
+<carReservationStatus>0</carReservationStatus>
+<location>New York</location></Car>
+
+
+
+</CarsData>

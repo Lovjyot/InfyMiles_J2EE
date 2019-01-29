@@ -1,0 +1,268 @@
+#get-start input[type=text]{
+    height: 30px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: black(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+}
+
+#get-start input[type=button],input[type=submit]{
+    position: relative;
+    left: 0;
+    outline: none;
+    color:black;
+    background-color: #FFD700;
+    border: 1px solid #cdcdcd;
+    border-color: black(0,0,0,.15);
+    font-size:20px;
+    width:100px;
+    height:50px
+    
+}
+
+.lot { 
+     background: #FFF url(location.png) no-repeat 4px 4px; 
+    border: 1px solid #999; 
+    outline:0; 
+    padding-left: 55px;
+    height:25px; 
+    width: 275px; 
+  } 
+  
+
+.login { 
+ padding: 0;
+    height: 30px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+	width: 300px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box; 
+  } 
+
+
+
+ .serc { 
+     background: #FFF url(magnifier.png) no-repeat 4px 4px; 
+    border: 1px solid #999; 
+    outline:0; 
+    padding-left: 55px;
+    height:25px; 
+    width: 275px; 
+  } 
+
+
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    float:right;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+
+
+.line {
+  position: relative;
+  text-align: center;
+}
+.line:after {
+  content: "";
+  border-bottom: 4px double orange;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: -1;
+}
+.line span {
+  padding: 0 8px;
+  background-color: white;
+  position: relative;
+}
+
+.recommended:hover {
+    position:relative;
+    
+    width:500px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+
+
+.carousel-inner .active.left  { left: -33%;             }
+    .carousel-inner .active.right { left: 33%;              }
+    .carousel-inner .next         { left: 33%               }
+    .carousel-inner .prev         { left: -33%              }
+    .carousel-control.left        { background-image: none; }
+    .carousel-control.right       { background-image: none; }
+    .carousel-inner .item         { background: white;      }
+
+
+    .stuck {
+    position: fixed;
+    top: 200px;
+    bottom: 50px;
+    width: 250px;
+    overflow-y: scroll;
+}
+
+
+    .fixheader {
+    position: fixed;
+    z-index: 99;
+    width:100%;
+}
+
+
+.fixtopheader{
+    position: fixed;
+    margin-left:100px;
+}
+
+
+.stars-container {
+  position: relative;
+  display: inline-block;
+  color: transparent;
+}
+
+.stars-container:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: '\2605\2605\2605\2605\2605';
+  color: darkgrey;
+}
+
+.stars-container:after {
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: '\2605\2605\2605\2605\2605';
+  color: #0099ff;
+  overflow: hidden;
+}
+
+
+.stars-0:after { width: 0%; }
+.stars-10:after { width: 10%; }
+.stars-20:after { width: 20%; }
+.stars-30:after { width: 30%; }
+.stars-40:after { width: 40%; }
+.stars-50:after { width: 50%; }
+.stars-60:after { width: 60%; }
+.stars-70:after { width: 70%; }
+.stars-80:after { width: 80%; }
+.stars-90:after { width: 90%; }
+.stars-100:after { width: 100; }
+
+.input_search{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	border:1px solid black;
+	padding:2px;
+	width:150px;
+	color:black;
+	background:white;
+	padding-left:17px;
+}
+
+
+.ac_results {
+	padding: 0px;
+	border: 1px solid #ff7c08;
+	background-color: white;
+	overflow: hidden;
+    z-index: 100;
+}
+
+.ac_results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+    z-index: 100;
+}
+
+.ac_results li {
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: default;
+	display: block;
+	color: black;
+	font-family:Arial, Helvetica, sans-serif;
+	/* 
+	if width will be 100% horizontal scrollbar will apear 
+	when scroll mode will be used
+	*/
+	/*width: 100%;*/
+	font-size: 12px;
+	/* 
+	it is very important, if line-height not setted or setted 
+	in relative units scroll will be broken in firefox
+	*/
+	line-height: 16px;
+	overflow: hidden;
+    z-index: 100;
+
+}
+
+.ac_loading {
+	background: white url('../images/indicator.gif') right center no-repeat;
+}
+
+.ac_odd {
+	background-color: lightgoldenrodyellow;
+}
+
+.ac_over {
+	background-color: gold;
+	color: white;
+}
